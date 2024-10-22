@@ -636,9 +636,9 @@ Send an email to `security [at] torquem.ch`.
 
 Core contributors (in alphabetical order of first names):
 
-* Alex Sharov ([AskAlexSharov](https://twitter.com/AskAlexSharov))
+* Alex Sharov ([AskAlexSharov](https://x.com/AskAlexSharov))
 
-* Alexey Akhunov ([@realLedgerwatch](https://twitter.com/realLedgerwatch))
+* Alexey Akhunov ([@realLedgerwatch](https://x.com/realLedgerwatch))
 
 * Andrea Lanfranchi([@AndreaLanfranchi](https://github.com/AndreaLanfranchi))
 
